@@ -1,0 +1,21 @@
+
+
+
+
+.col-md-4 > img{
+    width: 140px;
+    height: 140px;
+}
+
+.carousel-caption{
+    text-shadow: 2px 2px 2px #24324b;
+}
+
+.carousel > div > div{
+    max-height: 750px;
+}
+
+
+
+
+
